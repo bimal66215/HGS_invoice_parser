@@ -8,7 +8,10 @@ The Output is saved as 'output.xlsx' and the project directory itself. For this 
 
 The path for the tesseract.exe need to noted down while installing the Tesseract for the below code in the program:
 
-<p style="color:red;">pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract'</p>
+```diff
+
+- pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract'
+```
 
 "C:\Program Files\Tesseract-OCR\tesseract" is the default path
 
