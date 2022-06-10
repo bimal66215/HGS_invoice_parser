@@ -12,6 +12,6 @@ The path for the tesseract.exe need to noted down while installing the Tesseract
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract'
 ```
-
-"C:\Program Files\Tesseract-OCR\tesseract" is the default path
+```diff
+"C:\Program Files\Tesseract-OCR\tesseract"``` is the default path
 
