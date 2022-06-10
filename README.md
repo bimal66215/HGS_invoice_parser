@@ -4,3 +4,5 @@ The Output is saved as 'output.xlsx' and the project directory itself. You will 
 
 <a href="https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w32-setup-v5.1.0.20220510.exe" target="_blank">32 Bit</a>
 
+<a href="https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.1.0.20220510.exe" target="_blank">64 Bit</a>
+
